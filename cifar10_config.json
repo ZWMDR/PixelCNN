@@ -1,0 +1,14 @@
+{
+  "name": "cifar10_model",
+  "dataset": "cifar10",
+  "resize": 32,
+  "batch_size": 16,
+  "num_colors": 32,
+  "filter_size": 5,
+  "depth": 17,
+  "num_filters_prior":33,
+  "type" : "2D",
+  "lr": 4e-4,
+  "epochs": 64
+}
+
